@@ -1,0 +1,16 @@
+.container {
+  margin-top:3rem;
+  margin-bottom:5rem;
+}
+
+.calc-container {
+  margin-top: 5rem !important;
+}
+
+.res-container{
+  padding:2rem;
+}
+
+.res-container h3{
+  font-weight:400;
+}
